@@ -1,0 +1,29 @@
+agent:
+  mode: approval
+  minimum_match_score: 75
+  experience_min_years: 7
+  experience_max_years: 10
+  locations: [Bengaluru, Hyderabad, Pune, Noida, Ahmedabad]
+  target_titles:
+    - Senior Design Verification Engineer
+    - SoC Design Verification Engineer
+    - IP Verification Engineer
+    - Lead Design Verification Engineer
+    - Verification Engineer
+  core_skills:
+    - SystemVerilog
+    - UVM
+    - SVA
+    - functional coverage
+    - constrained random
+    - scoreboard
+    - PCIe
+    - AXI
+    - AHB
+    - USB
+    - I2C
+    - SPI
+    - VCS
+    - Questa
+    - Verdi
+    - SoC verification
