@@ -1,0 +1,1 @@
+streamlit>=1.39\npandas>=2.2\nPyYAML>=6.0\npython-dotenv>=1.0\npypdf>=5.0\npython-docx>=1.1\nopenai>=1.50\nplaywright>=1.48\npytest>=8.0\n
